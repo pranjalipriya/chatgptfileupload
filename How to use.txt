@@ -1,0 +1,4 @@
+STEPS TO USE
+1- Go to ChatGPT website and open console
+2- Copy paste the give code to console and press enter
+3- Upload your file!!
